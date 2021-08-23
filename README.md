@@ -4,7 +4,7 @@
 - 🗯 ask me about html, css, js, C
 - 💞️catch me on Discord : Iqlipse_Ar #6005
 - 📫 reach me on instagram : iqlipse_ar26
-- ⚡ fun fact: i like graphic designing and video editing. i do it with adobe ae and pr XD
+- - 📫 reach me on linkedin : www.linkedin.com/in/aditya-raj-918178205
 <!---
 Aditya-Raj26/Aditya-Raj26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
