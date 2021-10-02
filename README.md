@@ -1,8 +1,8 @@
 👋<h1 align="center"> <b>Hi there, I'm Aditya Raj<b></h1>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-raj26&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-raj26" /> </p>
 <br>
-
 ## I'm Just another Indian boi/ A Passionate self-taught developer from India!!
-master
+
 - 🌱 I’m currently learning DSA and some web dev stuff 😁
 - 🔭 I’m currently working on ... Front-end Web development
 - 🥅 2021 Goals: become proficient in dsa and fron end web dev
@@ -26,5 +26,5 @@ master
  
  <br />
  <br />
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya-raj26&show_icons=true&locale=en" alt="aditya-raj26" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-raj26&" alt="aditya-raj26" /></p>
