@@ -2,8 +2,8 @@
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-raj26&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-raj26" /> </p>
 <br>
  I'm Just another Indian boi/ A Passionate self-taught developer from India!!
- <br>
-
+ <br />
+ 
 - 🌱 I’m currently learning DSA and some web dev stuff 😁
 - 🔭 I’m currently working on ... Front-end Web development
 - 🥅 2021 Goals: become proficient in dsa and fron end web dev
