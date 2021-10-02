@@ -39,6 +39,5 @@
 [<img align="left" alt="premiere pro" width="26px" src="https://cdn4.iconfinder.com/data/icons/adobe-apps/512/Premiere_pro-512.png" />]
  <br />
  <br />
- <img align="left" alt="Aditya raj's GitHub Stats" src="https://https://github-stats-aditya-raj26.vercel.app/api?username=Aditya-Raj26_icons=true&hide_border=true" />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya-raj26&" alt="aditya-raj26" /></p>
