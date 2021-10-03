@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there,👋 I'm Aditya Raj</h1>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya-raj26&label=Profile%20views&color=0e75b6&style=flat" alt="aditya-raj26" /> </p>
  
-<h3 align="center">I'm Just another Indian boi/ A Passionate self-taught developer from India!!</a> </h3>
+<h3 align="center">I'm Just another Indian boi// A Passionate self-taught developer!!</a> </h3>
  
  # About me:
 - 🌱 I’m currently learning DSA and some web dev stuff 😁
