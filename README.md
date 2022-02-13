@@ -4,9 +4,9 @@
 <h3 align="center">I'm Just another Indian boi// A Passionate self-taught developer!!</a> </h3>
  
  # About me:
-- 🌱 I’m currently learning DSA and Java 😁
-- 🔭 I’m currently working on ... nothing. I'm just in learning period for now.
-- 🥅 2021 Goals: become good in dsa and learn basics of java programming
+- 🌱 I’m currently learning React, backend and Data Structures/Algorithms 😁
+- 💬 I Know Something About java, C, C++, Js
+- 👯 I’m looking to collaborate on any project which is interesting and involves coding
 - 📫 How to reach me - Discord: Iqlipse_Ar #6005 / linkedin : www.linkedin.com/in/aditya-raj-918178205
 - ⚡ Fun fact: yeah! there's no fun fact >_< but i want to explore anime world 🤩
 
