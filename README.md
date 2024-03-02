@@ -1,12 +1,12 @@
 <h1 align="center"> Hello 👋, I'm Aditya Raj 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Aditya Raj.I have a keen interest in DSA, javascript, python and Web Development and have a huge fascination with the inner workings of technology.</h3>
+<h3 align="center">Hey it's me Aditya Raj. I am looking for placement in **Software Development** .</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 👨🏻‍💻 I’m currently working on **Coding skills**
-- 🌱 I’m currently learning **MERN and DSA**
+- 👨🏻‍💻 I’m currently working on **DSA and Research Intern Project**
+- 🌱 I’m currently learning **ML and NLP**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Aditya-Raj26?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aditya-raj26" height="30" width="40" /></a>
 - 💬 Ask me about **C, C++, python, HTML, CSS and Javascript.**
 - How to reach me - **Discord: Iqlipse_Ar #6005.**
