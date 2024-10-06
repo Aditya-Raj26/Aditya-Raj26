@@ -1,14 +1,13 @@
-<h1 align="center"> Hello 👋, I'm Aditya Raj 🎯️🚀️</h1>
-<h3 align="center">Hey it's me Aditya Raj. I am looking for placement in **Software Development** .</h3>
+<h1 align="center"> HI THERE! WELCOME TO MY GITHUB PROFILE 👋 🎯️🚀️</h1>
+<h3 align="center">Hey I'm Aditya Raj. A Developer ig .</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 👨🏻‍💻 I’m currently working on **DSA and Research Intern Project**
-- 🌱 I’m currently learning **ML and NLP**
+- 👨🏻‍💻 I’m currently learning on **DSA and .Net**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/Aditya-Raj26?tab=repositories" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aditya-raj26" height="30" width="40" /></a>
-- 💬 Ask me about **C, C++, python, HTML, CSS and Javascript.**
+- 💬 Ask me about **C, C++, c# python, HTML, CSS and Javascript, web-scrapping, AWS.**
 - How to reach me - **Discord: Iqlipse_Ar #6005.**
 - ⚡ Fun fact: yeah! there's no fun fact >_< but i want to explore anime world 🤩
 
@@ -27,7 +26,7 @@
 <p align="center">
 <a href="https://twitter.com/aditya_raj26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aditya_raj26" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-raj-918178205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-raj-918178205/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/aditya__raj26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iqlipse_ar26/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aditya.rajj26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/aditya.rajj26/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucsicbywetebmmwj7bftumoa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucsicbywetebmmwj7bftumoa" height="30" width="40" /></a>
 <a href="mailto:raj77812@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="adityaraj" /></a>
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=aditya-raj26&label=Visitors&color=0088cc&style=flat-square" alt="aditya-raj26" /> </p>
